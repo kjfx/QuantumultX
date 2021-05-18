@@ -41,4 +41,6 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
     trojan=example.com:443, password=pwd, over-tls=true, tls-host=example.com, tls-verification=true, tls13=true, fast-open=false, udp-relay=false, tag=节点名称
 
 
-#### 4、订阅链接转换：https://dove.589669.xyz/web
+#### 4、订阅链接转换
+- 地址1：https://dove.589669.xyz/web
+- 地址2：https://bianyuan.xyz/
