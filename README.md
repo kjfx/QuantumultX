@@ -42,5 +42,5 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 
 
 #### 4、订阅链接转换
-- 地址1：https://dove.589669.xyz/web
-- 地址2：https://bianyuan.xyz/
+- 地址1(将其它订阅链接转成圈X订阅链接)：https://dove.589669.xyz/web
+- 地址2(将vmess节点链接转成订阅链接)：https://bianyuan.xyz/
