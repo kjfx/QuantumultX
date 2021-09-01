@@ -45,3 +45,26 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 #### 4、订阅链接转换
 - 地址1（将V2Ray订阅链接转成圈X订阅链接）：https://dove.589669.xyz/web
 - 地址2（将vmess节点链接转成订阅链接）：https://bianyuan.xyz/
+
+## <h2><a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://github.com/kjfx/QuantumultX/blob/main/qx.png" /></a>  第二部分：Quantumult X 策略组和分流规则，添加使用教程</h2>
+
+<h3>策略组</h3>
+
+#### 1、策略组是什么？
+- 策略组可以实现 自动切换节点、节点筛选、是否走代理等。
+- 策略组 需要配合 分流规则 使用。
+- 策略组 可包含多个节点和策略组。
+
+#### 2、Quantumult X 自带 3 种策略。
+
+- PROXY（代理）
+- DIRECT（直连）
+- REJECT（拒绝）
+
+#### 3、Quantumult X 策略组类型
+- static 静态策略-手动选择节点
+- available 健康检查-自动选择节点，从第一个节点开始检查是否可用，直到选择可用节点。
+- round-robin 负载均衡-轮询调度，轮流调用节点使用，IP可能会一直变。
+- dest-hash
+- url-latency-benchmark 自动测速-自动选择延迟低的节点
+
