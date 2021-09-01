@@ -68,3 +68,27 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 - dest-hash
 - url-latency-benchmark 自动测速-自动选择延迟低的节点
 
+#### 4、添加策略组 （重点）
+- 打开Quantumult X 配置文件，找到 <code>[policy]</code> 位置
+<span>
+    
+- 默认策略
+</span>
+
+    static=default, proxy, direct, reject
+    
+<span>
+    
+- 筛选节点的策略组
+</span>
+
+    static= HK 香港, server-tag-regex= 香港|🇭🇰|HK, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/HK.png
+    static= TW 台湾, server-tag-regex= 台湾|🇹🇼|TW, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/TW.png
+    static= US 美国, server-tag-regex= 美国|🇺🇸|US, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/US.png
+    static= JP 日本, server-tag-regex= 日本|🇯🇵|JP, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/JP.png
+    static= KR 韩国, server-tag-regex= 韩国|🇰🇷|KR, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/KR.png
+    static= SG 新加坡, server-tag-regex= 新加坡|🇸🇬|SG, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/SG.png
+
+- 需匹配的节点标签 - 正则<br>
+美国|US ：节点名称中包含 美国或US 会被选中。<br>
+IPLC.*香港：节点名称中需同时包含 IPLC和香港 会被选中。
