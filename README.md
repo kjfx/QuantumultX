@@ -66,6 +66,12 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 #### 3、添加分流规则
 - 打开Quantumult X 配置文件，找到 <code>[filter_remote]</code> 和 <code>[filter_local]</code> 位置可以添加<br>
 点击 <code>分流规则</code> 按钮也可以添加和引用分流规则。
+<span>
+    
+- 分流规则（引用）示例：
+</span>
+
+    https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/filter.list
 
 
 <br>
