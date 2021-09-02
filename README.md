@@ -46,8 +46,29 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 - 地址1（将V2Ray订阅链接转成圈X订阅链接）：https://dove.589669.xyz/web
 - 地址2（将vmess节点链接转成订阅链接）：https://bianyuan.xyz/
 
+
 ## <h2><a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://github.com/kjfx/QuantumultX/blob/main/qx.png" /></a>  第二部分：Quantumult X 策略组和分流规则，添加使用教程</h2>
 
+<h3>分流规则</h3>
+
+#### 1、分流规则是什么？
+- 分流规则可以实现不同的网站走不同的节点，自动让网站或APP走指定的节点或策略组，不需要人工操作。
+
+#### 2、Quantumult X 分流规则类型
+- **HOST**           / 域名匹配  / 例如：www.google.com
+- **HOST-SUFFIX**    / 域名后缀匹配  / 例如：google.com  
+- **HOST-KEYWORD**   / 域名关键字匹配  / 例如：google  
+- **USER-AGENT**     / 用户代理匹配  / 例如：*abc?
+- **IP-CIDR**        / IP匹配       / 例如：192.168.0.1/24
+- **IP6-CIDR**       / IPV6
+- **GEOIP**          / IP数据库匹配  / 例如：US
+
+#### 3、添加分流规则
+- 打开Quantumult X 配置文件，找到 <code>[filter_remote]</code> 和 <code>[filter_local]</code> 位置可以添加<br>
+点击 <code>分流规则</code> 按钮也可以添加和引用分流规则。
+
+
+<br>
 <h3>策略组</h3>
 
 #### 1、策略组是什么？
@@ -92,3 +113,17 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 - 需匹配的节点标签 - 正则<br>
 美国|US ：节点名称中包含 美国或US 会被选中。<br>
 IPLC.*香港：节点名称中需同时包含 IPLC和香港 会被选中。
+
+#### 5、Quantumult X 懒人配置
+- 分享两位大佬提供的配置规则<br>
+<span>
+    
+    https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
+</span>
+
+<span>
+    
+    https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf
+</span>
+    
+
