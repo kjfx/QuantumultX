@@ -109,6 +109,8 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
     static= JP 日本, server-tag-regex= 日本|🇯🇵|JP, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/JP.png
     static= KR 韩国, server-tag-regex= 韩国|🇰🇷|KR, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/KR.png
     static= SG 新加坡, server-tag-regex= 新加坡|🇸🇬|SG|狮城, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/SG.png
+    url-latency-benchmark=国际网络（自动选择节点）, server-tag-regex=.*, check-interval=600, tolerance=0, img-url=globe.system
+    static=Netflix, server-tag-regex=.*, img-url=play.circle.fill.system
 
 - 需匹配的节点标签 - 正则<br>
 美国|US ：节点名称中包含 美国或US 会被选中。<br>
