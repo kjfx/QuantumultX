@@ -48,7 +48,7 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 
 
 ## <h2><a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://github.com/kjfx/QuantumultX/blob/main/qx.png" /></a>  第二部分：Quantumult X 策略组和分流规则，添加使用教程</h2>
-
+Quantumult X 视频教程：https://youtu.be/xIoGHP3vics
 <h3>分流规则</h3>
 
 #### 1、分流规则是什么？
