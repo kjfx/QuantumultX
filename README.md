@@ -170,14 +170,6 @@ IPLC.*香港：节点名称中需同时包含 IPLC和香港 会被选中。
 
 
 <br>
-<h2>特别感谢（排名不分先后）：</h2>
-
-- <a href="https://github.com/Orz-3/QuantumultX" target="_blank">@Orz-3</a><br>
-- <a href="https://github.com/w37fhy" target="_blank">@w37fhy</a><br>
-- <a href="https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js" target="_blank">@NobyDa</a><br>
-- <a href="https://github.com/limbopro/Adblock4limbo" target="_blank">@limbopro</a><br>
-- <a href="https://github.com/DivineEngine/Profiles/tree/master" target="_blank">@DivineEngine </a>
-
 <h2>免责声明：</h2>
 
 - 以上分享的内容中涉及的任何解锁和解密分析脚本仅供资源共享和学习研究，不能保证合法性、准确性、完整性和有效性，请根据实际情况自行判断。
@@ -185,4 +177,12 @@ IPLC.*香港：节点名称中需同时包含 IPLC和香港 会被选中。
 - 您必须在下载后24小时内从您的计算机或手机中彻底删除以上所分享的全部内容。
 - 如果任何单位或个人认为以上分享的内容可能涉嫌侵犯其权利，则应及时通知并提供身份证明，所有权证明，我们将在收到认证文件后删除相关脚本。
 - 使用者都应仔细阅读此声明，kjfx保留随时更改或补充此免责声明的权利。您一旦使用并复制了本项目分享的任何内容，则视为您已接受此免责声明。
+
+<h2>特别感谢（排名不分先后）：</h2>
+
+- <a href="https://github.com/Orz-3/QuantumultX" target="_blank">@Orz-3</a><br>
+- <a href="https://github.com/w37fhy" target="_blank">@w37fhy</a><br>
+- <a href="https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js" target="_blank">@NobyDa</a><br>
+- <a href="https://github.com/limbopro/Adblock4limbo" target="_blank">@limbopro</a><br>
+- <a href="https://github.com/DivineEngine/Profiles/tree/master" target="_blank">@DivineEngine </a>
 
