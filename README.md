@@ -29,14 +29,14 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 #### 3、手动添加节点
 <span>
     
-- vmess节点格式
+- vmess节点格式（添加V2RAY节点）
 </span>
 
     vmess=example.com:443, method=chacha20-poly1305, password=pwd, obfs=wss, obfs-host=example.com, obfs-uri=/ws, tls13=true, fast-open=false, udp-relay=false, tag=节点名称
 
 <span>
     
-- Trojan节点格式
+- Trojan节点格式（添加Trojan节点）
 </span>
 
     trojan=example.com:443, password=pwd, over-tls=true, tls-host=example.com, tls-verification=true, tls13=true, fast-open=false, udp-relay=false, tag=节点名称
@@ -134,4 +134,38 @@ IPLC.*香港：节点名称中需同时包含 IPLC和香港 会被选中。
     https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf
 </span>
     
+## <h2><a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://github.com/kjfx/QuantumultX/blob/main/qx.png" /></a>  第三部分：Quantumult X 去广告规则和京东签到</h2>
 
+<h3>Quantumult X 去广告</h3>
+
+- Quantumult X 支持 youtube 去广告以及一些常用的网站和APP去广告。
+- 分享几位大佬提供的配置规则。
+- 第一步：在圈X配置文件里找到 <code>[filter_remote]</code> 添加<br>
+<span>
+    
+    http://limbopro.xyz/Adblock4limbo.list, tag=毒奶特供, force-policy=reject, enabled=true
+    https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt, tag=野比(AD_Block), force-policy=reject, enabled=false
+    https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=野比(AD_Block_Plus), force-policy=reject, enabled=true
+</span>
+
+- 第二步：在圈X配置文件里找到 <code>[rewrite_remote]</code> 添加<br>
+<span>
+    
+    http://limbopro.xyz/Adblock4limbo.conf, tag=毒奶特供, enabled=true
+    https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=DivineEngine (Youtube AdsBlock), enabled=true
+    https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=DivineEngine (Advertising), enabled=true
+    https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=NoByDa（lhie1 Rewrite）, enabled=true
+    https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf, tag=NoByDa（NoByDa Rewrite）, enabled=true
+</span>
+
+- 第三步：开启 <code>重写</code> 和 <code>MitM</code> 并生成证书、配置证书。<br>
+
+<h3>Quantumult X 京东签到</h3>
+
+- 分享野比大佬提供的配置规则。
+<span>
+    
+    https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+</span>
+
+@lhie1
