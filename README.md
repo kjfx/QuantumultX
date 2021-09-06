@@ -1,6 +1,6 @@
 # Quantumult X 新手入门教程
 电报交流群：https://t.me/kejifx <br>
-Quantumult X 视频教程：https://youtu.be/oOFGDXMBD5s
+Quantumult X 视频教程：▶ https://youtu.be/oOFGDXMBD5s
 
 ## <a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/qx.png" /></a>  一、Quantumult X 简介与下载
 Quantumult X 简称“圈X”，是一款功能强大的网络工具，本文主要介绍它的代理功能。<br>
@@ -48,7 +48,7 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 
 
 ## <h2><a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/qx.png" /></a>  第二部分：Quantumult X 策略组和分流规则，添加使用教程</h2>
-Quantumult X 视频教程：https://youtu.be/xIoGHP3vics
+Quantumult X 视频教程：▶ https://youtu.be/xIoGHP3vics
 <h3>分流规则</h3>
 
 #### 1、分流规则是什么？
@@ -135,6 +135,7 @@ IPLC.*香港：节点名称中需同时包含 IPLC和香港 会被选中。
 </span>
     
 ## <h2><a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/qx.png" /></a>  第三部分：Quantumult X 去广告规则和京东签到</h2>
+Quantumult X 去广告和京东签到视频教程：▶ https://youtu.be/KS5N7JzYngg
 
 <h3>Quantumult X 去广告</h3>
 
