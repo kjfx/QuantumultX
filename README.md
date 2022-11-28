@@ -1,6 +1,6 @@
 # Quantumult X 新手入门教程
 电报：https://t.me/kejifenxiang <br>
-Quantumult X 视频教程：▶ 更新中...
+Quantumult X 视频教程：▶ https://youtu.be/yR4o1B5URF4
 
 ## <a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/qx.png" /></a>  一、Quantumult X 简介与下载
 Quantumult X 简称“圈X”，是一款功能强大的网络工具，本文主要介绍它的代理功能。<br>
@@ -43,7 +43,7 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 
 
 #### 4、订阅链接转换
-- 地址1（将V2Ray订阅链接转成圈X订阅链接）：https://dove.589669.xyz/web
+- 地址1（将节点链接转成订阅链接）：https://acl4ssr-sub.github.io/  (后端地址: 选择第二个)
 - 地址2（将vmess节点链接转成订阅链接）：https://bianyuan.xyz/
 
 
