@@ -135,7 +135,7 @@ IPLC.*香港：节点名称中需同时包含 IPLC和香港 会被选中。
 </span>
     
 ## <h2><a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/qx.png" /></a>  第三部分：Quantumult X 去广告规则和京东签到</h2>
-Quantumult X 去广告和京东签到视频教程：▶ https://youtu.be/YHUnHW1_P_A
+Quantumult X 去广告和京东签到视频教程：▶ https://youtu.be/bW7DxHsMzdI
 
 <h3>Quantumult X 去广告</h3>
 
