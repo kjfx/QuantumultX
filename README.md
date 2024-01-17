@@ -12,7 +12,7 @@ Quantumult X 是一款付费APP，7.99美元，需要用美区等AppleID账号�
 ## 二、Quantumult X 添加节点，订阅链接
 #### 1、通过机场订阅链接导入
 - Quantumult X 支持SS/SSR订阅链接、支持 Quantumult X 格式的 V2Ray和Trojan订阅链接。
-- 机场网站有 Quantumult X 订阅链接的，直接复制订阅链接到 圈X的引用（订阅）里粘贴，或者点击导入到 Quantumult X 。
+- 机场网站有 Quantumult X 订阅链接的，直接复制订阅链接到 圈X的节点资源 - 资源路径里粘贴，或者点击导入到 Quantumult X 。
 - 机场网站无 Quantumult X 订阅链接的，SS/SSR订阅链接可以使用，如果是V2Ray和Trojan订阅链接不能直接导入 Quantumult X ，<br>
 需要添加一个 <code>资源解析器</code>，使用 <code>资源解析器</code> 后，可以将 Quantumult X 不识别的 节点或订阅链接 轻松的导入。
 <span>
@@ -171,6 +171,10 @@ Quantumult X 去广告和京东签到视频教程：▶ https://youtu.be/bW7DxHs
 
 
 <br>
+<h2>常见问题：</h2>
+1、关于 Quantumult X 网页响应测试，测试延迟后的两个数值<br>
+第一项为节点 TCP 握手，第二项为通过对应节点访问测试网页获得 HTTP 响应所需要的时间，来确认节点的可用性。
+
 <h2>免责声明：</h2>
 
 - 以上分享的内容中涉及的任何解锁和解密分析脚本仅供资源共享和学习研究，不能保证合法性、准确性、完整性和有效性，请根据实际情况自行判断。
