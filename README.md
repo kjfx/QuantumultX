@@ -22,6 +22,9 @@ Quantumult X 是一款付费APP，7.99美元，需要用美区等AppleID账号�
 </span>
 
     resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
+备用：
+
+    resource_parser_url=https://fastly.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
 
 #### 2、通过 URL 和 扫码 添加节点
 Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格式的 V2Ray和Trojan节点链接和扫码添加，大部分机场的V2Ray和Trojan节点链接不能直接通过扫码添加。
