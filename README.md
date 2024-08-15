@@ -1,6 +1,6 @@
 # Quantumult X 新手入门教程
 电报：https://t.me/kejifenxiang <br>
-Quantumult X 视频教程：▶ https://youtu.be/gNXlxBxFz2A
+Quantumult X 视频教程：▶ https://youtu.be/X1yna0CxfVo
 
 ## <a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/qx.png" /></a>  一、Quantumult X 简介与下载
 Quantumult X 简称“圈X”，是一款功能强大的网络工具，本文主要介绍它的代理功能。<br>
