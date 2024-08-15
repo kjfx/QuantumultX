@@ -95,7 +95,7 @@ Quantumult X 视频教程：▶ https://youtu.be/Hi1s-SsjUE4
 - static 静态策略-手动选择节点
 - available 健康检查-自动选择节点，从第一个节点开始检查是否可用，直到选择可用节点。
 - round-robin 负载均衡-轮询调度，轮流调用节点使用，IP可能会一直变。
-- dest-hash
+- dest-hash 随机负载均衡，但相同域名走固定节点。
 - url-latency-benchmark 自动测速-自动选择延迟低的节点
 
 #### 4、添加策略组 （重点）
