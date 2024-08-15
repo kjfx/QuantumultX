@@ -150,18 +150,18 @@ Quantumult X 去广告和京东签到视频教程：▶ https://youtu.be/bW7DxHs
 <span>
     
     http://limbopro.xyz/Adblock4limbo.list, tag=毒奶特供, force-policy=reject, enabled=true
-    https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt, tag=野比(AD_Block), force-policy=reject, enabled=false
-    https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=野比(AD_Block_Plus), force-policy=reject, enabled=true
+    https://raw.githubusercontent.com/w37fhy/QuantumultX/master/Rules/Advertising.list, tag=🛑轻量广告拦截, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
+    https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list, tag=🛑重度广告拦截, force-policy=reject, update-interval=172800, opt-parser=false, enabled=false
 </span>
 
 - 第二步：在圈X配置文件里找到 <code>[rewrite_remote]</code> 添加<br>
 <span>
     
     http://limbopro.xyz/Adblock4limbo.conf, tag=毒奶特供, enabled=true
-    https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=DivineEngine (Youtube AdsBlock), enabled=true
-    https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=DivineEngine (Advertising), enabled=true
     https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=NoByDa（lhie1 Rewrite）, enabled=true
     https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf, tag=NoByDa（NoByDa Rewrite）, enabled=true
+    https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Module/Block/YouTubeAds.sgmodule, tag=油管去广告, update-interval=172800, opt-parser=true, enabled=true
+    https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=油管去广告, update-interval=86400, opt-parser=true, enabled=true
 </span>
 
 - 第三步：开启 <code>重写</code> 和 <code>MitM</code> 并生成证书、配置证书。<br>
