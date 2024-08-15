@@ -4,7 +4,7 @@ Quantumult X 视频教程：▶ https://youtu.be/gNXlxBxFz2A
 
 ## <a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/qx.png" /></a>  一、Quantumult X 简介与下载
 Quantumult X 简称“圈X”，是一款功能强大的网络工具，本文主要介绍它的代理功能。<br>
-Quantumult X 目前支持的协议： SS/SSR、V2Ray、Trojan、HTTP(S)<br>
+Quantumult X 目前支持的协议： SS/SSR、V2Ray、VLESS、Trojan、HTTP(S)<br>
 Quantumult X 是一款付费APP，7.99美元，需要用美区等AppleID账号登录 Apple Store 下载。
 
 注册美国AppleID教程：<a href="https://github.com/kjfx/AppleID" target="_blank">https://github.com/kjfx/AppleID</a><br><br>
