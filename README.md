@@ -126,7 +126,7 @@ Quantumult X 视频教程：▶ https://youtu.be/Hi1s-SsjUE4
 IPLC.*香港：节点名称中需同时包含 IPLC和香港 会被选中。
 
 #### 5、Quantumult X 懒人配置
-- 分享两位大佬提供的配置规则<br>
+- 分享几位大佬提供的配置规则<br>
 <span>
     
     https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
@@ -136,6 +136,8 @@ IPLC.*香港：节点名称中需同时包含 IPLC和香港 会被选中。
     
     https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf
 </span>
+
+    https://raw.githubusercontent.com/As-Lucky/Lucky/main/Lucky-qx.conf
     
 ## <h2><a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/qx.png" /></a>  第三部分：Quantumult X 去广告规则和京东签到</h2>
 Quantumult X 去广告和京东签到视频教程：▶ https://youtu.be/bW7DxHsMzdI
