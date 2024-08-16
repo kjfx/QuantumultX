@@ -51,7 +51,7 @@ Quantumult X 支持SS/SSR节点链接和扫码添加、支持 Quantumult X 格�
 
 
 ## <h2><a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/qx.png" /></a>  第二部分：Quantumult X 策略组和分流规则，添加使用教程</h2>
-Quantumult X 视频教程：▶ https://youtu.be/Hi1s-SsjUE4
+Quantumult X 视频教程：▶ https://youtu.be/XnLCigKhE9E
 <h3>分流规则</h3>
 
 #### 1、分流规则是什么？
@@ -140,7 +140,7 @@ IPLC.*香港：节点名称中需同时包含 IPLC和香港 会被选中。
     https://raw.githubusercontent.com/As-Lucky/Lucky/main/Lucky-qx.conf
     
 ## <h2><a href="https://github.com/kjfx/QuantumultX/"><img width="40" src="https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/qx.png" /></a>  第三部分：Quantumult X 去广告规则和京东签到</h2>
-Quantumult X 去广告和京东签到视频教程：▶ https://youtu.be/bW7DxHsMzdI
+Quantumult X 去广告和京东签到视频教程：▶ https://youtu.be/b3Gw-2QGciQ
 
 <h3>Quantumult X 去广告</h3>
 
