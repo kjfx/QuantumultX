@@ -112,12 +112,13 @@ Quantumult X 视频教程：▶ https://youtu.be/XnLCigKhE9E
 - 筛选节点的策略组
 </span>
 
-    static= HK 香港, server-tag-regex= 香港|🇭🇰|HK, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/HK.png
-    static= TW 台湾, server-tag-regex= 台湾|🇹🇼|TW, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/TW.png
-    static= US 美国, server-tag-regex= 美国|🇺🇸|US, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/US.png
-    static= JP 日本, server-tag-regex= 日本|🇯🇵|JP, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/JP.png
-    static= KR 韩国, server-tag-regex= 韩国|🇰🇷|KR, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/KR.png
-    static= SG 新加坡, server-tag-regex= 新加坡|🇸🇬|SG|狮城, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/SG.png
+    static=节点选择, 国际网络（自动选择节点）, proxy, direct, img-url=paperplane.fill.system
+    static=HK 香港, server-tag-regex=香港|🇭🇰|HK, img-url=globe.system
+    static=TW 台湾, server-tag-regex=台湾|🇹🇼|TW, img-url=globe.system
+    static=US 美国, server-tag-regex=美国|🇺🇸|US, img-url=globe.system
+    static=JP 日本, server-tag-regex=日本|🇯🇵|JP, img-url=globe.system
+    static=KR 韩国, server-tag-regex=韩国|🇰🇷|KR, img-url=globe.system
+    static=SG 新加坡, server-tag-regex=新加坡|🇸🇬|SG|狮城, img-url=globe.system
     url-latency-benchmark=国际网络（自动选择节点）, server-tag-regex=.*, check-interval=600, tolerance=0, img-url=globe.system
     static=Netflix, server-tag-regex=.*, img-url=play.circle.fill.system
 
